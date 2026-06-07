@@ -45,8 +45,7 @@ O tema foi escolhido por sua relevância no mercado de trabalho atual e pela nec
 - Construa Uma Carreira Em
 Ciência De Dados PDF
 EMILY ROBINSON  **https://www.livros1.com.br/pdf-read/livar/CONSTRUA-UMA-CARREIRA-EM-CI%C3%8ANCIA-DE-DADOS.pdf**
-
--Análise de dados: 
+- Análise de dados: 
 uma leitura crítica das 
 informações  Fundação Escola Nacional de Administração Pública
 Diretoria de Desenvolvimento Profissional
