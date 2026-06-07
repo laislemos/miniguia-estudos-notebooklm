@@ -41,6 +41,20 @@ O tema foi escolhido por sua relevância no mercado de trabalho atual e pela nec
 - [Documentação Pandas](https://pandas.pydata.org/)  
 
 ---
+## Fontes
+- Construa Uma Carreira Em
+Ciência De Dados PDF
+EMILY ROBINSON  **https://www.livros1.com.br/pdf-read/livar/CONSTRUA-UMA-CARREIRA-EM-CI%C3%8ANCIA-DE-DADOS.pdf**
+-Análise de dados: 
+uma leitura crítica das 
+informações  Fundação Escola Nacional de Administração Pública
+Diretoria de Desenvolvimento Profissional
+Conteudista/s 
+Ricardo Alexandre Amaral (conteudista, 2022); 
+Diretoria de Desenvolvimento Profissional.
+https://repositorio.enap.gov.br/bitstream/1/7657/1/M%C3%B3dulo%201%20-%20An%C3%A1lise%20de%20Dados_Apresenta%C3%A7%C3%A3o%20e%20%20Ferramentas%20B%C3%A1sicas.pdf
+- 2026 Roadmap Analista de Dados - Bruce Fonseca - Análise de Dados  https://www.youtube.com/watch?v=vaEIsDCMujc
+---
 
 ## 📌 Autor
 👩‍💻 Desenvolvido por **Lais Lemos**  
